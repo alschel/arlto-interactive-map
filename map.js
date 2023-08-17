@@ -264,9 +264,9 @@ function onEachFeature(feature, layer) {
 var geojsonMarkerOptions = {
     radius: 6,
     color: "#000",
-    weight: 1,
-    opacity: 0.5,
-    fillOpacity: 0.8
+    weight: 0,
+    opacity: 1,
+    fillOpacity: 0.75
 };
 
 // Create layers from geojson data
