@@ -16,7 +16,7 @@ body {
 the sidebar gets 1/3. */
 .map {
   position: absolute;
-  width: 70%;
+  width: 72.5%;
   top: 0;
   bottom: 0;
 }
@@ -24,8 +24,8 @@ the sidebar gets 1/3. */
 .sidebar {
   border-left: 1px solid #fff;
   position: absolute;
-  left: 70%;
-  width: 30%;
+  left: 72.5%;
+  width: 27.5%;
   height: 100%;
   overflow: hidden;
   top: 0;
@@ -78,17 +78,17 @@ a:hover {
 
 .listings .item .title {
   display: block;
-  color: #007537;
+  color: #000000dd;
   font-weight: 700;
 }
 
 .listings .item .title small { font-weight: 400; }
 
 .listings .item.active .title,
-.listings .item .title:hover { color: #8cc63f; }
+.listings .item .title:hover { color: #232314d7; }
 
 .listings .item.active {
-  background-color: #f8f8f8;
+  background-color: #fffffff4;
   border-bottom: 1px solid rgb(39, 39, 39);
   border-top: 1px solid rgb(39, 39, 39);
 }
@@ -105,7 +105,7 @@ a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #007537;
+  background: #000000;
   border-radius: 0;
 }
 

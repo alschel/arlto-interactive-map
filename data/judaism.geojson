@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "judaism",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 425.0, "Confession": "иудаизм", "Name": "Тюменская религиозная организация прогрессивного иудаизма «Мадрегот»", "Address": "625000, г. Тюмень, ул. Кирова, д. 44", "Date": "Дата регистрации - 2003", "Сentral_organization": "Объединение религиозных организаций современного иудаизма в России", "Rituals": null, "Area_of_influence": "г. Тюмень", "Lon": 65.529031331200216, "Lat": 57.156295899185302 }, "geometry": { "type": "Point", "coordinates": [ 65.529031331200216, 57.156295899185302, 0.0 ] } },
+{ "type": "Feature", "properties": { "ID": 427.0, "Confession": "иудаизм", "Name": "Местная религиозная организация ортодоксального иудаизма \"Еврейская община г. Тюмени\"", "Address": "625003, г. Тюмень, ул. Кирова, д. 25/1", "Date": "Дата регистрации - 2013", "Сentral_organization": "Федерация еврейских общин России", "Rituals": null, "Area_of_influence": "г. Тюмень", "Lon": 65.53266574236315, "Lat": 57.157707878456591 }, "geometry": { "type": "Point", "coordinates": [ 65.53266574236315, 57.157707878456591, 0.0 ] } }
+]
+}
